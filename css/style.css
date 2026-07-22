@@ -640,7 +640,7 @@ h1 a img {
 .pin_bg {
   position: absolute;
   inset: -2px;
-  background-image: url('asset/case_gallery.png');
+  background-image: url('../asset/case_gallery.png');
   background-size: cover;
   background-position: center;
   transform: translateZ(0);
